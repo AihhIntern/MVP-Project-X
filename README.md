@@ -111,7 +111,7 @@ Response will include:
 
 ---
 
-## 🗃 External API Integration
+##  External API Integration
 
 This project integrates with an AWS-hosted REST API to:
 - Fetch and update conversation history
