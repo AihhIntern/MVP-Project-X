@@ -63,7 +63,7 @@ Place the `all questions.json` file in the same directory. It should contain cat
 
 
 
-## 💬 Running the Console Chat
+##  Running the Console Chat
 
 ```bash
 python prototype1.py
@@ -78,7 +78,7 @@ The assistant will ask up to 15 questions and give a final diagnosis.
 
 
 
-## 🌐 Running the Flask API
+##  Running the Flask API
 
 ```bash
 python app.py
@@ -110,7 +110,7 @@ Response will include:
 
 ---
 
-## 🗃️ External API Integration
+## 🗃 External API Integration
 
 This project integrates with an AWS-hosted REST API to:
 - Fetch and update conversation history
