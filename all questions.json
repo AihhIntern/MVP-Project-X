@@ -1,0 +1,749 @@
+{
+    "Heart_failure": [
+        {
+            "Question": "When did you first notice symptoms like breathlessness or fatigue"
+        },
+        {
+            "Question": "How severe is your shortness of breath (e.g., mild, moderate, severe)"
+        },
+        {
+            "Question": "Do you feel breathless at rest or only during activity"
+        },
+        {
+            "Question": "How far can you walk before feeling out of breath"
+        },
+        {
+            "Question": "Do you wake up at night feeling breathless or suffocated"
+        },
+        {
+            "Question": "Have you noticed swelling in your legs, ankles, or feet"
+        },
+        {
+            "Question": "How long has the swelling been present"
+        },
+        {
+            "Question": "Do you feel tired or weak even after minimal effort"
+        },
+        {
+            "Question": "Have you experienced chest pain or heaviness recently"
+        },
+        {
+            "Question": "Does your shortness of breath get worse when lying flat"
+        },
+        {
+            "Question": "Do you need extra pillows to sleep comfortably"
+        },
+        {
+            "Question": "Have you noticed a rapid or irregular heartbeat (palpitations)"
+        },
+        {
+            "Question": "Do you feel dizzy or lightheaded often"
+        },
+        {
+            "Question": "Have you fainted or nearly fainted recently"
+        },
+        {
+            "Question": "Are you coughing a lot, especially at night"
+        },
+        {
+            "Question": "Is your cough dry or do you bring up phlegm"
+        },
+        {
+            "Question": "Have you noticed any pink or frothy sputum"
+        },
+        {
+            "Question": "Do you feel bloated or full in your stomach"
+        },
+        {
+            "Question": "Have you gained weight suddenly without changing your diet"
+        },
+        {
+            "Question": "Have your symptoms gotten worse over time"
+        },
+        {
+            "Question": "Does climbing stairs or walking uphill make your symptoms worse"
+        },
+        {
+            "Question": "Does cold weather affect your breathing or chest discomfort"
+        },
+        {
+            "Question": "Have you noticed symptoms worsening after eating heavy meals"
+        },
+        {
+            "Question": "Does rest improve your breathing or fatigue"
+        },
+        {
+            "Question": "Have your symptoms interfered with your daily activities"
+        },
+        {
+            "Question": "Do you feel better or worse after drinking water or fluids"
+        },
+        {
+            "Question": "Have you had episodes of extreme weakness or confusion"
+        },
+        {
+            "Question": "Does stress or anxiety trigger your symptoms"
+        },
+        {
+            "Question": "Have you noticed any changes in how often you urinate"
+        },
+        {
+            "Question": "Have you been diagnosed with heart failure before"
+        },
+        {
+            "Question": "Do you have high blood pressure (hypertension)"
+        },
+        {
+            "Question": "Have you ever had a heart attack or chest pain in the past"
+        },
+        {
+            "Question": "Do you have diabetes or high blood sugar"
+        },
+        {
+            "Question": "Have you been told you have high cholesterol"
+        },
+        {
+            "Question": "Do you have a history of rheumatic fever or heart valve problems"
+        },
+        {
+            "Question": "Have you ever had a stroke or mini-stroke"
+        },
+        {
+            "Question": "Do you have thyroid problems (hypo- or hyperthyroidism)"
+        },
+        {
+            "Question": "Have you been diagnosed with kidney disease"
+        },
+        {
+            "Question": "Do you have asthma, COPD, or any lung condition"
+        },
+        {
+            "Question": "Has anyone in your family had heart failure or heart disease"
+        },
+        {
+            "Question": "Does your family have a history of sudden cardiac death"
+        },
+        {
+            "Question": "Have any relatives had high blood pressure or diabetes"
+        },
+        {
+            "Question": "Have you had heart surgery or a stent placed before"
+        },
+        {
+            "Question": "Have you been admitted to a hospital for heart-related issues"
+        },
+        {
+            "Question": "Have you had an ECG, echocardiogram, or stress test done"
+        },
+        {
+            "Question": "When was your last heart check-up"
+        },
+        {
+            "Question": "Have you ever been told your heart is enlarged"
+        },
+        {
+            "Question": "Do you have a history of anemia or low hemoglobin"
+        },
+        {
+            "Question": "Have you had infections like tuberculosis that affected your heart"
+        },
+        {
+            "Question": "Are you taking any medicines for your heart right now"
+        },
+        {
+            "Question": "Do you take diuretics (water pills) like Lasix or Dytor"
+        },
+        {
+            "Question": "Are you on beta-blockers (e.g., Metoprolol, Carvedilol)"
+        },
+        {
+            "Question": "Are you taking ACE inhibitors (e.g., Enalapril, Ramipril)"
+        },
+        {
+            "Question": "Do you use any blood thinners like aspirin or warfarin"
+        },
+        {
+            "Question": "Have you missed any doses of your medicines recently"
+        },
+        {
+            "Question": "Have you noticed side effects like dizziness or low BP from your medicines"
+        },
+        {
+            "Question": "Are you allergic to any heart medications"
+        },
+        {
+            "Question": "Do you take any over-the-counter drugs or supplements"
+        },
+        {
+            "Question": "Have you tried herbal remedies or Ayurvedic medicines for your heart"
+        },
+        {
+            "Question": "What is your daily diet like Do you eat a lot of salty or oily food"
+        },
+        {
+            "Question": "How much salt do you add to your meals"
+        },
+        {
+            "Question": "Do you eat processed foods like pickles, papads, or snacks"
+        },
+        {
+            "Question": "How much water or fluids do you drink daily"
+        },
+        {
+            "Question": "Do you smoke cigarettes, bidis, or use tobacco (e.g., gutka)"
+        },
+        {
+            "Question": "Do you consume alcohol How often and how much"
+        },
+        {
+            "Question": "How much physical activity do you do daily"
+        },
+        {
+            "Question": "Are you able to do chores like sweeping or lifting objects"
+        },
+        {
+            "Question": "Do you sit for long hours at work or home"
+        },
+        {
+            "Question": "How many hours do you sleep, and is it restful"
+        },
+        {
+            "Question": "Are you exposed to air pollution regularly (e.g., traffic, dust)"
+        },
+        {
+            "Question": "Do you live in a hot and humid area that affects your breathing"
+        },
+        {
+            "Question": "How often do you eat street food or restaurant meals"
+        },
+        {
+            "Question": "Do you have access to clean drinking water daily"
+        },
+        {
+            "Question": "Are you under financial stress that affects your health choices"
+        },
+        {
+            "Question": "Do you have a family member to help monitor your condition"
+        },
+        {
+            "Question": "Have you traveled recently to high-altitude areas"
+        },
+        {
+            "Question": "Do you use wood or coal for cooking at home"
+        },
+        {
+            "Question": "Are you exposed to loud noise that might stress your heart"
+        },
+        {
+            "Question": "Do you follow a vegetarian or non-vegetarian diet"
+        },
+        {
+            "Question": "How often do you check your blood pressure at home"
+        },
+        {
+            "Question": "Have you monitored your weight regularly"
+        },
+        {
+            "Question": "Do you know your target heart rate or pulse"
+        },
+        {
+            "Question": "Are you able to afford your heart medications"
+        },
+        {
+            "Question": "Have you missed follow-up appointments with your doctor"
+        },
+        {
+            "Question": "Do you understand how to take your medicines correctly"
+        },
+        {
+            "Question": "Have you been advised to limit fluid intake If yes, do you follow it"
+        },
+        {
+            "Question": "Do you check your legs or feet for swelling daily"
+        },
+        {
+            "Question": "Have you been told to avoid certain foods or activities"
+        },
+        {
+            "Question": "Are you comfortable with your current treatment plan"
+        },
+        {
+            "Question": "Have you noticed any new symptoms in the last few weeks"
+        },
+        {
+            "Question": "Do you feel depressed or anxious about your condition"
+        },
+        {
+            "Question": "Have you had a fever or infection recently"
+        },
+        {
+            "Question": "Are you able to recognize when your symptoms worsen"
+        },
+        {
+            "Question": "Do you have any questions about heart failure or your treatment"
+        },
+        {
+            "Question": "Is there anything else you\u2019d like to tell me about your health"
+        },
+        {
+            "Question": "Have you been advised about a pacemaker or surgery"
+        },
+        {
+            "Question": "Do you feel supported by your family in managing this"
+        },
+        {
+            "Question": "Have you experienced side effects like dry cough from medicines"
+        },
+        {
+            "Question": "What do you hope to achieve with your treatment"
+        }
+    ],
+    "Tuberculosis": [
+        {
+            "Question": "When did you first notice symptoms like cough or fever"
+        },
+        {
+            "Question": "How long have you had this cough"
+        },
+        {
+            "Question": "Is your cough dry or do you bring up sputum"
+        },
+        {
+            "Question": "Have you noticed blood in your sputum (hemoptysis)"
+        },
+        {
+            "Question": "Do you feel feverish, especially in the evenings"
+        },
+        {
+            "Question": "Have you been sweating a lot at night"
+        },
+        {
+            "Question": "Are you feeling tired or weak most of the time"
+        },
+        {
+            "Question": "Have you lost weight recently without trying"
+        },
+        {
+            "Question": "Have you lost your appetite or feel full quickly"
+        },
+        {
+            "Question": "How severe is your cough (e.g., mild, constant, or painful)"
+        },
+        {
+            "Question": "Does your cough worsen at night or in the morning"
+        },
+        {
+            "Question": "Do you feel short of breath or chest tightness"
+        },
+        {
+            "Question": "Have you had chest pain while coughing or breathing"
+        },
+        {
+            "Question": "Is your sputum thick, yellow, or greenish"
+        },
+        {
+            "Question": "Have you noticed any hoarseness in your voice"
+        },
+        {
+            "Question": "Do you feel chills along with your fever"
+        },
+        {
+            "Question": "Have you had any swollen lymph nodes (e.g., neck, armpit)"
+        },
+        {
+            "Question": "Do you feel pain or stiffness in any joints or bones"
+        },
+        {
+            "Question": "Have you noticed any skin changes or lumps"
+        },
+        {
+            "Question": "Have your symptoms gotten worse over time"
+        },
+        {
+            "Question": "Does dust, smoke, or pollution make your cough worse"
+        },
+        {
+            "Question": "Have you had episodes of extreme fatigue or weakness"
+        },
+        {
+            "Question": "Does lying down affect your breathing or cough"
+        },
+        {
+            "Question": "Have your symptoms affected your ability to work or do chores"
+        },
+        {
+            "Question": "Do you feel better or worse after eating"
+        },
+        {
+            "Question": "Have you noticed symptoms worsening in crowded places"
+        },
+        {
+            "Question": "Does cold weather affect your cough or breathing"
+        },
+        {
+            "Question": "Have you had recurring fevers that come and go"
+        },
+        {
+            "Question": "Are your symptoms interfering with your sleep"
+        },
+        {
+            "Question": "Have you been diagnosed with TB before"
+        },
+        {
+            "Question": "Have you ever been treated for TB If yes, when"
+        },
+        {
+            "Question": "Did you complete your previous TB treatment fully"
+        },
+        {
+            "Question": "Do you have HIV or have you been tested for it"
+        },
+        {
+            "Question": "Do you have diabetes or high blood sugar"
+        },
+        {
+            "Question": "Have you had pneumonia or a lung infection in the past"
+        },
+        {
+            "Question": "Do you have asthma or any chronic lung condition"
+        },
+        {
+            "Question": "Have you been told you have a weak immune system"
+        },
+        {
+            "Question": "Have you had kidney or liver disease"
+        },
+        {
+            "Question": "Do you have a history of cancer or chemotherapy"
+        },
+        {
+            "Question": "Has anyone in your family had TB"
+        },
+        {
+            "Question": "Have you been in close contact with someone with TB"
+        },
+        {
+            "Question": "Does anyone at home or work have a chronic cough"
+        },
+        {
+            "Question": "Have you lived in a crowded or poorly ventilated place"
+        },
+        {
+            "Question": "Have you worked in a hospital, prison, or slum area"
+        },
+        {
+            "Question": "Have you traveled to a TB-prone area recently"
+        },
+        {
+            "Question": "Has anyone close to you been diagnosed with multidrug-resistant TB (MDR-TB)"
+        },
+        {
+            "Question": "Do you have children or elderly people at home who might be at risk"
+        },
+        {
+            "Question": "Have you shared utensils or bedding with someone sick"
+        },
+        {
+            "Question": "Have you noticed TB symptoms in your family members"
+        },
+        {
+            "Question": "Are you currently taking any TB medicines (e.g., Rifampicin, Isoniazid)"
+        },
+        {
+            "Question": "Have you missed any doses of your TB treatment"
+        },
+        {
+            "Question": "Have you noticed side effects like yellow skin or nausea from medicines"
+        },
+        {
+            "Question": "Are you allergic to any TB drugs"
+        },
+        {
+            "Question": "Do you take other medications (e.g., for diabetes, HIV)"
+        },
+        {
+            "Question": "Have you used steroids or immunosuppressive drugs recently"
+        },
+        {
+            "Question": "Do you take over-the-counter medicines or supplements"
+        },
+        {
+            "Question": "Have you tried herbal or Ayurvedic remedies for your symptoms"
+        },
+        {
+            "Question": "Are you on birth control or hormonal therapy (For women)"
+        },
+        {
+            "Question": "Have you had a BCG vaccine in the past"
+        },
+        {
+            "Question": "What is your daily diet like Do you eat enough protein-rich food"
+        },
+        {
+            "Question": "How often do you eat fruits and vegetables"
+        },
+        {
+            "Question": "Do you smoke cigarettes, bidis, or use tobacco (e.g., gutka, paan)"
+        },
+        {
+            "Question": "Do you consume alcohol How often and how much"
+        },
+        {
+            "Question": "How much time do you spend indoors vs. outdoors"
+        },
+        {
+            "Question": "Do you live in a damp or poorly ventilated home"
+        },
+        {
+            "Question": "Are you exposed to air pollution or dust regularly"
+        },
+        {
+            "Question": "What is your occupation Does it involve physical strain"
+        },
+        {
+            "Question": "Do you have access to clean drinking water"
+        },
+        {
+            "Question": "How many hours do you sleep, and is it restful"
+        },
+        {
+            "Question": "Do you live in a slum or crowded urban area"
+        },
+        {
+            "Question": "Are you exposed to smoke from cooking with wood or coal"
+        },
+        {
+            "Question": "How often do you eat street food or unhygienic meals"
+        },
+        {
+            "Question": "Do you have financial difficulty affording food or medicines"
+        },
+        {
+            "Question": "Have you been in a public transport system frequently"
+        },
+        {
+            "Question": "Are you under stress due to work or family issues"
+        },
+        {
+            "Question": "Do you have a family member to help with your care"
+        },
+        {
+            "Question": "Have you attended large gatherings or festivals recently"
+        },
+        {
+            "Question": "Do you wear a mask in crowded or polluted areas"
+        },
+        {
+            "Question": "Have you noticed stray animals or poor sanitation near your home"
+        },
+        {
+            "Question": "Have you had a sputum test or chest X-ray recently"
+        },
+        {
+            "Question": "Do you know if your TB is active or latent"
+        },
+        {
+            "Question": "Have you been told you have drug-resistant TB"
+        },
+        {
+            "Question": "How often do you visit the doctor for TB follow-ups"
+        },
+        {
+            "Question": "Are you able to afford your TB medicines"
+        },
+        {
+            "Question": "Do you understand how long you need to take TB treatment"
+        },
+        {
+            "Question": "Have you been advised about TB transmission precautions"
+        },
+        {
+            "Question": "Do you cover your mouth when coughing"
+        },
+        {
+            "Question": "Have you missed any DOTS (Directly Observed Treatment, Short-course) sessions"
+        },
+        {
+            "Question": "Are you comfortable with your current treatment plan"
+        },
+        {
+            "Question": "Have you noticed any new symptoms in the last few weeks"
+        },
+        {
+            "Question": "Do you feel depressed or anxious about your condition"
+        },
+        {
+            "Question": "Have you had a recent fever unrelated to TB"
+        },
+        {
+            "Question": "Are you able to recognize when your symptoms worsen"
+        },
+        {
+            "Question": "Do you have any questions about TB or your treatment"
+        },
+        {
+            "Question": "Is there anything else you'd like to tell me about your health"
+        },
+        {
+            "Question": "Have you experienced joint pain or eye problems from medicines"
+        },
+        {
+            "Question": "Do you feel supported by your family in managing TB"
+        },
+        {
+            "Question": "Have you been advised about TB affecting other organs (e.g., brain, bones)"
+        },
+        {
+            "Question": "What do you hope to achieve with your treatment"
+        }
+    ],
+    "General_consultation ": [
+        {
+            "Question": "When did your symptoms first start"
+        },
+        {
+            "Question": "How severe is your pain or discomfort (on a scale of 1 to 10)"
+        },
+        {
+            "Question": "Can you describe your symptoms in detail"
+        },
+        {
+            "Question": "Have your symptoms been continuous or come and go"
+        },
+        {
+            "Question": "Does anything make your symptoms better or worse"
+        },
+        {
+            "Question": "Have you experienced this problem before"
+        },
+        {
+            "Question": "Are you feeling feverish or have you checked your temperature"
+        },
+        {
+            "Question": "Have you noticed any changes in your weight recently"
+        },
+        {
+            "Question": "Do you feel tired or weak most of the time"
+        },
+        {
+            "Question": "Do you have any past medical conditions like diabetes, hypertension, or asthma"
+        },
+        {
+            "Question": "Have you ever been admitted to a hospital or had surgery"
+        },
+        {
+            "Question": "Are you currently taking any medications If yes, what are they"
+        },
+        {
+            "Question": "Do you take any over-the-counter medicines or supplements"
+        },
+        {
+            "Question": "Are you allergic to any medicines, foods, or substances"
+        },
+        {
+            "Question": "Has anyone in your family had similar symptoms or illnesses"
+        },
+        {
+            "Question": "Does your family have a history of diabetes, heart disease, or cancer"
+        },
+        {
+            "Question": "Have you had any recent infections or illnesses"
+        },
+        {
+            "Question": "Have you been vaccinated recently (e.g., for COVID-19, flu, etc.)"
+        },
+        {
+            "Question": "Have you traveled anywhere recently If yes, where"
+        },
+        {
+            "Question": "What is your daily diet like / Do you eat a lot of spicy or oily food"
+        },
+        {
+            "Question": "How much water do you drink in a day"
+        },
+        {
+            "Question": "Do you smoke or use tobacco products like gutka or paan"
+        },
+        {
+            "Question": "Do you consume alcohol If yes, how often and how much"
+        },
+        {
+            "Question": "How many hours do you sleep at night"
+        },
+        {
+            "Question": "Do you exercise regularly If yes, what kind"
+        },
+        {
+            "Question": "What is your occupation, and does it involve physical strain or stress"
+        },
+        {
+            "Question": "Are you exposed to pollution or chemicals at work or home"
+        },
+        {
+            "Question": "How often do you eat outside food or street food"
+        },
+        {
+            "Question": "Do you have any stress or anxiety in your daily life"
+        },
+        {
+            "Question": "Are you experiencing any cough, cold, or breathing difficulties"
+        },
+        {
+            "Question": "Have you had any stomach pain, nausea, or vomiting"
+        },
+        {
+            "Question": "Are you having loose motions or constipation"
+        },
+        {
+            "Question": "Do you feel any burning sensation while passing urine"
+        },
+        {
+            "Question": "Have you noticed any changes in your skin, like rashes or itching"
+        },
+        {
+            "Question": "Are you having headaches or dizziness"
+        },
+        {
+            "Question": "Do you feel any chest pain or palpitations"
+        },
+        {
+            "Question": "Have you noticed any swelling in your legs, hands, or face"
+        },
+        {
+            "Question": "Are your periods regular (For female patients)"
+        },
+        {
+            "Question": "Have you had any recent injuries or falls"
+        },
+        {
+            "Question": "Have you taken any home remedies or medicines for this problem"
+        },
+        {
+            "Question": "Have you consulted another doctor for this issue What did they say"
+        },
+        {
+            "Question": "Are you able to follow your prescribed treatment regularly"
+        },
+        {
+            "Question": "Have you experienced any side effects from your current medications"
+        },
+        {
+            "Question": "Do you have difficulty affording your medicines or tests"
+        },
+        {
+            "Question": "Are you comfortable with the treatment plan I'm suggesting"
+        },
+        {
+            "Question": "Do you have any questions about your condition or treatment"
+        },
+        {
+            "Question": "How often do you check your blood sugar or blood pressure (If applicable)"
+        },
+        {
+            "Question": "When was your last health check-up or blood test"
+        },
+        {
+            "Question": "Is there anything else you'd like me to know about your health"
+        }
+    ]
+}
