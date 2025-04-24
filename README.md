@@ -41,7 +41,7 @@ This project is a conversational AI assistant that guides users through a struct
 
 
 
-## 🔧 Setup
+##  Setup
 
 ### 1. Install dependencies
 
