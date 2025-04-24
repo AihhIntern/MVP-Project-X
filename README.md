@@ -12,6 +12,7 @@ This project is a conversational AI assistant that guides users through a struct
 
  **`prototype1.py`**: Core logic for conversation flow, classification, Gemini prompts, and external record/report management.
  **`app.py`**: Flask API that wraps the diagnostic logic for external clients or UI integration.
+  **`MVP-v3`**: Technical documentation followed with a release note.
 
 
 
